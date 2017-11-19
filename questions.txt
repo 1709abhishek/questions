@@ -20,10 +20,15 @@ procedure for changing the end date and time for ticket sales?
 instructions for changing the end date and time for ticket sales?
 where to change the end date and time for ticket sales?
 
-abhishek ch
+Here's how you do it:
+Go to your Edit page.
+Locate the ticket under Step 2: Create Tickets and select the settings icon (under "Actions").
+Edit the "Ticket sales start" and/or "Ticket sales end" date and time.
+Optional: Start your ticket sales when sales end for another ticket type.
+Save your changes.
 
-
-
+
+
 How to change the number of tickets on sale?
 How to hide a ticket type?
 How to set up early-bird pricing?
