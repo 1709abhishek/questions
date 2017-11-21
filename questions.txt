@@ -30,21 +30,182 @@ Save your changes.
 
 
 How to change the number of tickets on sale?
+change the number of tickets on sale?
+where to change the number of tickets on sale?
+what is the procedure for changing the number of tickets on sale?
+procedure for changing the number of tickets on sale?
+want to change the number of tickets on sale?
+learn to change the number of tickets on sale?
+instructions for changing the number of tickets on sale?
+change the ticket number on sale
+change the ticket number
+how to change the ticket number
+learn to change the ticket number
+want to change the number of tickets on sale
+procedure for changing the number of tickets on sale
+instructions for changing the number of tickets on sale
+instructions for changing the ticket number
+where to change the number of tickets on sale
+correct the number of tickets on sale
+
+You can easily increase or decrease the number of tickets on sale from your event's Edit page. Just go to Step 2: Create Tickets and look to the "Quantity" field to edit the number of tickets available. You can also access the "Total capacity" to change the overall event capacity.
+
+
+
 How to hide a ticket type?
-How to set up early-bird pricing?
-How to automatically hide tickets when not on sale?
-How to set up an event schedule with multiple dates?
-How to change the number of tickets on sale?
-How to limit how many tickets an attendee can purchase?
-How to set up an event schedule with multiple dates?
-People can't register for my event—what's wrong?
-How to reset your password?
-How to manage your email preferences?
-How to add subusers who already have Eventfull accounts?
-How to make a subuser the account administrator?
+learn to hide a ticket type
+procedure for hiding a ticket type
+instructions for hiding a ticket type
+where to hide a ticket type
+
+You can easily hide an existing ticket type by setting the visibility to "Hide this ticket type". To get started, go to Step 2: Create Tickets on your event's Edit page. Then click the gear icon (under Actions) to update the ticket settings.
+
+
 How to close your Eventfull account?
-How to transfer Eventbrite account ownership?
-Understanding fee invoices for events hosted on Eventfull
-Why was my email invitation limit reduced?
-Can my nonprofit or charity get lower fees for our events?
+where to close my eventfull account
+learn to close my eventfull account
+procedure for closing my eventfull account
+close my eventfull account
+want to close my eventfull account
+close my account
+want to close my account
+account closing procedure
+account closing process
+process to close my account
+process to close my eventfull account
+learn to close my account
+close this account
+fed up with this
+don't wanna do this eventfull thing anymore
+hate this fun life
+
+You can close an Eventbrite account from the Account Settings page when logged in. Go to Account Settings, select "Close Account," then let us know why you're leaving Eventbrite. You'll be asked to type in the word "CLOSE" (in all capital letters) and enter the password on the account before closing it.
+
+
+
+How to troubleshoot internet browser issues?
+troubleshoot internet browser issues
+issues with my browser
+issues with my internet browser
+sort browser issues
+problem with my browser
+problem running this site
+is my browser not compatible?
+compatibility issues with my browser
+
+
+First, try clearing your browser's cache and cookies. If you're still experiencing trouble, make sure that both your Flash and Java are up to date or try a different internet browser.
+NOTE: If you're using Internet Explorer, make sure your browser is up to date and supported.
+
+How to transfer Eventfull account ownership?
+where to transfer Eventfull account ownership?
+procedure for transferring Eventfull account ownership?
+learn to transfer Eventfull account ownership?
+want to transfer Eventfull account ownership?
+process for transferring Eventfull account ownership?
+change account owner
+learn to change account owner
+procedure to change account owner
+ownership change
+change the owner
+transfer the ownership
+
+
+If you need to transfer an Eventbrite account to someone else (like a co-worker or colleague), all you have to do is update the email address and password on the account. To get started, head over to the Account Settings page and select "Change" under the account email address. After updating the email address on the account, the new account owner can visit eventbrite.com/resetpassword to change the password.
+
+
+
+How to set up early-bird pricing?
+where to set up early-bird pricing?
+learn to set up early-bird pricing?
+process for setting up early-bird pricing?
+procedure for setting up early-bird pricing?
+instructions for setting up early-bird pricing?
+want to set up early-bird pricing?
+
+The easiest way to set up tiered pricing for your event is to create separate ticket types and set the "General Admission" ticket to start sales when the early-bird or "VIP" ticket ends sales. On your event's Edit page, scroll to Step 2: Create Tickets and add a "Paid ticket". Enter the details (e.g., Ticket name, Quantity available and Price) to get started!
+
+
+How to automatically hide tickets when not on sale?
+where to automatically hide tickets when not on sale?
+learn to automatically hide tickets when not on sale?
+process for automatically hide tickets when not on sale?
+procedure for automatically hide tickets when not on sale?
+instructions for automatically hide tickets when not on sale?
+want to automatically hide tickets when not on sale?
+
+You can automatically hide tickets from your event listing when sales end or on a custom date and time. It's a great way to drive sales and create a sense of urgency and demand for your event. To get started, go to your Edit page, then find Step 2: Create Tickets. Just select the settings icon under "Actions" and scroll to the "Ticket Visibility" section to set up an auto-hide schedule for your ticket.
+
+
+
+How to set up an event schedule with multiple dates?
+where to set up an event schedule with multiple dates?
+learn to set up an event schedule with multiple dates?
+process for set up an event schedule with multiple dates?
+procedure for set up an event schedule with multiple dates?
+instructions for set up an event schedule with multiple dates?
+want to set up an event schedule with multiple dates?
+
+If you're organizing the same event that repeats on multiple dates and times (like a class or tour), you can create a single registration page that lists all the events in your schedule. Just choose "Create Event" and locate the date and time on the Edit page. Then select "Schedule multiple events" to start adding dates to your event schedule.
+
+
+
+How to change the number of tickets on sale?
+where to change the number of tickets on sale?
+learn to change the number of tickets on sale?
+process for change the number of tickets on sale?
+procedure for change the number of tickets on sale?
+instructions for change the number of tickets on sale?
+want to change the number of tickets on sale?
+
+When you create an event, you can customize your tickets by name, price, when ticket sales start and end, how many of each type can be sold, and more! Just choose "Create Event" and locate Step 2: Create Tickets to get started.
+
+
+
+How to set up an event schedule with multiple dates?
+where to set up an event schedule with multiple dates?
+learn to set up an event schedule with multiple dates?
+process for set up an event schedule with multiple dates?
+procedure for set up an event schedule with multiple dates?
+instructions for set up an event schedule with multiple dates?
+want to set up an event schedule with multiple dates?
+
+If you're organizing the same event that repeats on multiple dates and times (like a class or tour), you can create a single registration page that lists all the events in your schedule. Just choose "Create Event" and locate the date and time on the Edit page. Then select "Schedule multiple events" to start adding dates to your event schedule.
+
+
+
+How to reset your password?
+where to reset your password?
+learn to reset your password?
+process for reset your password?
+procedure for reset your password?
+instructions for reset your password?
+want to reset your password?
+
+
+It only takes a few steps to reset the password on your Eventfull account. Go to eventfull.com/reset-password, enter your Eventbrite account email address, and choose "Reset password." Shortly after, you should receive an email with a link to create a new password for your Eventbrite account. If you don't receive the email, check your spam folder and add "mail@eventfull.com" to your email contact list to ensure you can receive our notifications going forward.
+
+How to manage your email preferences?
+where to manage your email preferences?
+learn to manage your email preferences?
+process for manage your email preferences?
+procedure for manage your email preferences?
+instructions for manage your email preferences?
+want to manage your email preferences?
+
+Hit the unsubscribe button on an email but still getting messages you don't want? The most comprehensive way to manage your email preferences is from the Account Settings page when logged in. From here, you can opt in or out of Eventbrite newsletters, updates, and notifications as well as any event invitations and attendee emails from event organizers.
+
+
+
+How to make a subuser the account administrator?
+where to make a subuser the account administrator?
+learn to make a subuser the account administrator?
+process for make a subuser the account administrator?
+procedure for make a subuser the account administrator?
+instructions for make a subuser the account administrator?
+want to make a subuser the account administrator?
+
+If you need to take over an Eventbrite account from someone else (like someone who's leaving your organization), you can just update the email address for the account. To make an existing subuser the administrator on the account, you'll want to delete their subuser account first to separate the two accounts (since an email address can only be associated with one Eventbrite account). Then have them log into their account and delete it to free up the email address. Finally, change the email address on the main account to their email address to make them the new administrator.
+
+
 
